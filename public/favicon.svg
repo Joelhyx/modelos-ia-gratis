@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="MODELOS//IA">
+  <rect width="64" height="64" fill="#05060a" />
+  <rect x="2" y="2" width="60" height="60" fill="none" stroke="#00f0ff" stroke-opacity="0.35" stroke-width="2" />
+  <path d="M14 20l10 12-10 12" fill="none" stroke="#00f0ff" stroke-width="4" stroke-linecap="square" />
+  <path d="M32 44h18" stroke="#ff2e88" stroke-width="4" stroke-linecap="square" />
+</svg>
